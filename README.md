@@ -15,7 +15,7 @@ SELECT column_name AS "Column Name"
   e.g SELECT region AS "East region" from Country_Details;
 
   where 
-  region is the name of the column
-  upated name is in the double quotes " "
+  region is the name of the column.
+  upated name is in the double quotes " ", if not put in double quotes then it will start treating as a separate object which will result in an error.
   Country_Details is the name of the table
   
