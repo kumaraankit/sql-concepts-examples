@@ -9,6 +9,7 @@
 SELECT * FROM table_name;
 
 **Renaming column names** using AS keyword(eg if we want to have spaces in the names of the results)
+
 SELECT column_name AS "Column Name"
   FROM table_name;
 
