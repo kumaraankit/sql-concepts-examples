@@ -1,6 +1,6 @@
 # sql-concepts-examples
 
-#SELECT
+# SELECT
 
 **SELECT** is used to select columns we want to view and **From** is the table from which those column name lives
 
