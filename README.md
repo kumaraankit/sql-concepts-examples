@@ -27,6 +27,7 @@ SELECT column_name AS "Column Name"
 limit is a simple way to keep the limit on no of records getting returned from the queries. It also helps in returning the result faster by limiting record.
 
 **Syntax**
+
   SELECT * FROM table_name **LIMIT** 100
 
 Above query will return 100 rows
@@ -36,4 +37,13 @@ Above query will return 100 rows
 The SQL WHERE clause can be combined with the SELECT statement to output only certain rows, based on if they meet certain conditions:
 
 **Syntax**
+
 SELECT column1, column2, ... FROM table_name WHERE condition;
+
+# AND
+
+AND is a logical operator in SQL that allows you to select only rows that satisfy two conditions.
+
+**Syntax**
+
+
