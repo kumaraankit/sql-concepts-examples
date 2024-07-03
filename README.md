@@ -30,3 +30,10 @@ limit is a simple way to keep the limit on no of records getting returned from t
   SELECT * FROM table_name **LIMIT** 100
 
 Above query will return 100 rows
+
+# WHERE
+
+The SQL WHERE clause can be combined with the SELECT statement to output only certain rows, based on if they meet certain conditions:
+
+**Syntax**
+SELECT column1, column2, ... FROM table_name WHERE condition;
